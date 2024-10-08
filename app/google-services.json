@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1051146414550",
+    "project_id": "tic-tac-toe-online-1d588",
+    "storage_bucket": "tic-tac-toe-online-1d588.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051146414550:android:8d090622644cf1c8381c77",
+        "android_client_info": {
+          "package_name": "np.com.bimalkafle.tictactoeonline"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5x1-5M5o5yldQWK-6cHGK8xaN7gVzYOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
